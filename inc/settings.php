@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "crud2";
+$dbname = "databse";
 
 function validar(){
     session_start();
